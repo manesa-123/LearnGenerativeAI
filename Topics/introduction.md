@@ -1,3 +1,4 @@
+<div style="text-align: justify;">
 # Introduction to Generative AI
 
 Generative Artificial Intelligence (AI) is a fascinating field that focuses on creating models and systems capable of generating new content, such as images, text, music, and more. These models are trained on existing data and learn to generate new data that resembles the patterns and characteristics of the training examples.
@@ -44,3 +45,4 @@ To get started with generative AI, you'll need a solid understanding of machine 
 ## Conclusion
 
 Generative AI is an exciting and rapidly evolving field that has the potential to revolutionize how we create content and solve complex problems. By understanding the various generative models and their applications, you can dive into this creative and innovative realm of artificial intelligence.
+</div>
